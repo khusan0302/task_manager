@@ -1,8 +1,6 @@
 # Task Manager App
 
-<p align="center">
-  <img src="https://your-image-url.com" alt="Task Manager App Logo" width="200">
-</p>
+
 
 This Task Manager application is a powerful yet user-friendly Python program built with Tkinter. It simplifies task management by providing an intuitive interface to handle your daily activities efficiently.
 
@@ -19,7 +17,7 @@ This Task Manager application is a powerful yet user-friendly Python program bui
 
 Include captivating screenshots of your application. For example:
 
-![Task Manager App Screenshot](C:\Users\IFtech\Desktop\task_manager_screenshot.png)
+![Task Manager App Screenshot](Desktop/task_manager_screenshot.png)
 
 ## 🛠️ Getting Started
 
