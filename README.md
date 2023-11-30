@@ -18,7 +18,7 @@ This Task Manager application is a powerful yet user-friendly Python program bui
 
 Include captivating screenshots of your application. For example:
 
-![Task Manager App Screenshot](![task_manager_screenshot](https://github.com/khusan0302/task_manager/assets/106137852/0997b0df-1714-4952-afbc-abb48d067ccf))
+![Task Manager App Screenshot](screenshots/task_manager_screenshot.png))
 
 ## 🛠️ Getting Started
 
