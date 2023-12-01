@@ -18,7 +18,16 @@ This Task Manager application is a powerful yet user-friendly Python program bui
 
 Include captivating screenshots of your application. For example:
 
-![Task Manager App Screenshot](/task_manager_screenshot.png))
+![Task Manager App Screenshot](/task_manager_screenshot.png)
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or pull requests for improvements or bug fixes.
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📬 Contact
+For additional information or feedback, reach out to us at husaniskandarov2@gmail.com.
 
 ## 🛠️ Getting Started
 
